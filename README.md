@@ -37,7 +37,7 @@ O texto "PLAY NOW" alterna entre preto e branco conforme o fundo é preenchido p
 
 O componente depende de um arquivo CSS que suporte as propriedades de máscara:
 
-```html
+```html```
 <button class="button5">
     <span>PLAY NOW</span>
 </button>
